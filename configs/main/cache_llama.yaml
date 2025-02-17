@@ -1,0 +1,7 @@
+model_name: meta-llama/Llama-2-7b-chat-hf
+temperature: 1.0
+watermark_type: DiPMark
+watermark_config: configs/watermarks/dipmark.yaml
+test_type: cache
+test_config: configs/tests/cache_augmented.yaml
+disable_watermark_every: 0

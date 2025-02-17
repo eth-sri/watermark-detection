@@ -1,0 +1,7 @@
+model_name: meta-llama/Llama-2-7b-chat-hf
+temperature: 1.0
+watermark_type: KTH
+watermark_config: configs/watermarks/kth.yaml
+test_type: fixed_key
+test_config: configs/tests/fixed_sampling.yaml
+disable_watermark_every: 0

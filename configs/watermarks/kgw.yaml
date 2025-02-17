@@ -1,0 +1,7 @@
+type: KGW
+delta: 4.0
+gamma: 0.25
+context_size: 3
+seeding_scheme: lefthash
+seeds:
+ - 1

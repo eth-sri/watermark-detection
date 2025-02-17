@@ -1,0 +1,6 @@
+type: DiPMark
+seeds:
+ - 0
+alpha: 0.5
+use_cache: false
+context_size: 3

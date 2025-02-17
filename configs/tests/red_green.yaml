@@ -1,0 +1,5 @@
+context: 5
+n_samples: 100
+estimate_delta: true
+estimate_context_size: false
+fast: true

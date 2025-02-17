@@ -1,0 +1,7 @@
+model_name: meta-llama/Llama-2-7b-chat-hf
+temperature: 1.0
+watermark_type: KGW
+watermark_config: configs/watermarks/kgw.yaml
+test_type: red_green
+test_config: configs/tests/red_green.yaml
+disable_watermark_every: 0

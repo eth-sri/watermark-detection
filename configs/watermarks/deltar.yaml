@@ -1,0 +1,5 @@
+type: DeltaR
+context_size: 3
+seeds:
+ - 0
+use_cache: false
